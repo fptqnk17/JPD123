@@ -104,3 +104,29 @@ Trường hợp đặc biệt cho từ __いい__:
 - __Ex:__
   - Hỏi: FPT大学からFPT会社までバイクでどのくらいかかりますか。 = Từ Đại học FPT đến công ty FPT bằng xe máy mất bao lâu?
   - Trả lời: １５分ぐらいかかります。 = Mất khoảng 15 phút.
+
+---
+
+## VII. Cấu trúc: N1(địa điểm) + に + N2 + が + あります hoặc います。
+- Cấu trúc:
+  - N1(địa điểm) + に + N2 + が + あります hoặc います。
+
+- Cách thể hiện sự tồn tại giữa người và đồ vật (nhấn mạnh vào vị trí).
+
+- Cách dùng:
+  - N1 là địa điểm tồn tại của N2, và được xác định bởi trợ từ __に__.
+  - Nếu N2 là:
+    - Đồ vật, dùng __あります__.
+    - Người, động vật, dùng __います__.
+
+- __Ex:__
+  - うちにいぬがいます。 = Nhà có chó.
+
+### Cách đặt câu hỏi sự tồn tại của người, đồ vật:
+- Cấu trúc:
+  - Đối với đồ vật:
+    - N + に + __なに__ + が + __あります__ + か。
+  - Đối với động vật:
+    - N + に + __なに__ + が + __います__ + か。
+  - Đối với người:
+    - N + に + __だれ__ + が + __います__ + か。
