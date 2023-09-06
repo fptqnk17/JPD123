@@ -75,3 +75,16 @@ Trường hợp đặc biệt cho từ __いい__:
   - __Ex2:__
     - Hỏi: Quy Nhơnはどんなまちですか。 = Quy Nhơn là thành phố như thế nào?
     - Trả lời: しずかなまちです。 = Thành phố yên tĩnh.
+
+---
+
+## V. Cấu trúc: あまり。。。＋。。。phủ định tính từ:
+- Cấu trúc:
+  - あまり。。。＋。。。phủ định tính từ.
+  - Nghĩa: Không ... lắm / Không ... mấy.
+
+- Cách dùng: __あまり__ đứng trước tính từ dạng phủ định, thể hiện sự phủ định một phần.
+
+- __Ex:__
+  - Hỏi: 日本語はむずかしいですか。 = Tiếng Nhật có khó không?
+  - Trả lời: いいえ、あまりむずかしいくないです。 = Không, không khó lắm.
