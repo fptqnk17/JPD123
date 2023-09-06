@@ -43,3 +43,19 @@ Trường hợp đặc biệt cho từ __いい__:
   - __いい__　-->　__いいです__.
 - Phủ định:
   - __いい__　-->　__よくないです__.
+
+---
+
+## III. Tính từ bổ nghĩa cho danh từ:
+- Cấu trúc:
+  - Tính từ đuôi い: (giữ い)
+    - A-い + N
+  - Tính từ đuôi な: (giữ な)
+    - A-な + N
+
+- __Ex:__
+  - わたしはハンサムです。 = Tôi đẹp trai.
+  - わたしはハンサムなひとです。 = Tôi là người đẹp trai.
+  - きょうはあついひです。 = Hôm nay là ngày nóng.
+
+---
