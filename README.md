@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+- Chủ đề 4: [Click here!!!](https://github.com/fptqnk17/JPD123/blob/main/Chủ%20đề%204/Lý%20Thuyết.md)
+
 ## Contributors:
 
 <a href="https://github.com/fptqnk17/JPD123/graphs/contributors">
