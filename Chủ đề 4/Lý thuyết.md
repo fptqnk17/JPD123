@@ -59,3 +59,19 @@ Trường hợp đặc biệt cho từ __いい__:
   - きょうはあついひです。 = Hôm nay là ngày nóng.
 
 ---
+
+## IV. Cách đặt câu hỏi với tính từ:　（どう、どんな）
+- Cấu trúc:
+  - N + は + どう + ですか。
+  - N1 + は + どんな + N2 + ですか。
+
+- Cách dùng:
+  - __どう__ và __どんな__ là từ để hỏi cho tính chất, cảm tưởng về vật, sự vật.
+
+- __Ex:__
+  - __Ex1:__
+    - Hỏi: ふじさんはどうですか。 = Núi Phú Sĩ như thế nào?
+    - Trả lời: きれいです。 = Đẹp.
+  - __Ex2:__
+    - Hỏi: Quy Nhơnはどんなまちですか。 = Quy Nhơn là thành phố như thế nào?
+    - Trả lời: しずかなまちです。 = Thành phố yên tĩnh.
