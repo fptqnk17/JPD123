@@ -88,3 +88,19 @@ Trường hợp đặc biệt cho từ __いい__:
 - __Ex:__
   - Hỏi: 日本語はむずかしいですか。 = Tiếng Nhật có khó không?
   - Trả lời: いいえ、あまりむずかしいくないです。 = Không, không khó lắm.
+
+---
+
+## VI. Cấu trúc: どのくらい＋V-ます＋か。
+- Cấu trúc:
+  - Dạng hỏi: どのくらい + V-ます + か。
+  - Trả lời: N(lượng thời gian) + __くらい hoặc ぐらい__ + V-ます。
+
+- Cách dùng:
+  - __どのくらい__ là từ để hỏi khoảng thời gian.
+  - Thường đi kèm với động từ __かかります__ (tốn, mất bao lâu).
+  - __くらい hoặc ぐらい__ đứng sau từ chỉ số lượng, có nghĩa là khoảng.
+
+- __Ex:__
+  - Hỏi: FPT大学からFPT会社までバイクでどのくらいかかりますか。 = Từ Đại học FPT đến công ty FPT bằng xe máy mất bao lâu?
+  - Trả lời: １５分ぐらいかかります。 = Mất khoảng 15 phút.
