@@ -104,6 +104,15 @@
 ---
 
 ## V. Từ nối câu: から
+- Cấu trúc:
+  - S1 + から + S2
+
+- Cách dùng:
+  - Cách nói lý do: Vì S1, nên S2.
+  - から đặt sau câu chỉ nguyên nhân.
+
+### Ex:
+- じかんがありませんから、サッカーをしません。 = Vì không có thời gian nên không đá bóng.
 
 ---
 
