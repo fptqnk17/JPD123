@@ -117,6 +117,17 @@
 ---
 
 ## VI. Từ để hỏi ở đầu câu:
+- Cấu trúc:
+  - どうして + S + か。
+
+- Cách dùng:
+  - Đây là câu hỏi lý do, nguyên nhân.
+  - どうして là từ dùng để hỏi lý do.
+  - Câu trả lời sẽ thêm から và cuối câu.
+
+### Ex:
+- とうしてサッカーをしませんか。 = Vì sao không đi đánh bóng?
+- じかんがありませんから。 = Vì không có thời gian.
 
 ---
 
