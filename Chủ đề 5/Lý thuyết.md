@@ -2,6 +2,14 @@
 
 ## I. Chia động từ V-ます:
 
+| V-ます       | Quá khứ  | Hiện tại + Tương lai |
+|------------|----------|----------------------|
+| Khẳng định | V-ました    | V-ます                 |
+| Phủ định   | V-ませんでした | V-ません                |
+
+### Ex:
+- きのうはにほんごをべんきょうしませんでした。 = Hôm qua không học tiếng Nhật.
+
 ---
 
 ## II. Chia tính từ đuôi い, đuôi な và danh từ:
