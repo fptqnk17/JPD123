@@ -85,6 +85,21 @@
 ---
 
 ## IV. Phó từ:
+- Đối với câu khẳng định, các phó từ hay dùng:
+  - そこし
+  - よく (tốt, rõ)
+  - だいたい (đại khái)
+  - たくさん (nhiều)
+  - とても (rất)
+- Đối với câu phủ định, các phó từ hay dùng:
+  - あまり (không ... lắm)
+  - ぜんぜん (hoàn toàn không)
+
+- Cách dùng: Đây là các phó từ, dùng để đặt trước động từ hoặc tính từ để chỉ mức độ cảu chúng.
+
+### Ex:
+- おかねがたくさんります。 = Tôi có rất nhiều tiền.
+- 日本語がぜんぜんわかりません。 = Tôi hoàn toàn không hiểu tiếng Nhật.
 
 ---
 
