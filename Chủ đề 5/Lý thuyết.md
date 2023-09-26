@@ -171,6 +171,31 @@
 
 ## IX. Cấu trúc muốn làm gì đó:
 
+<table>
+    <tr>
+        <td rowspan="2">（わたし　は）</td>
+        <td rowspan="2">+</td>
+        <td rowspan="2">N</td>
+        <td rowspan="2">+</td>
+        <td colspan="2">を</td>
+        <td rowspan="2">V-たい (bỏ ます, thêm たい)</td>
+        <td rowspan="2">です</td>
+    </tr>
+    <tr>
+        <td>へ</td>
+    </tr>
+</table>
+
+- Ý nghĩa:
+  - Cách thể hiện mong muốn làm gì đó.
+
+- Cách dùng:
+  - Bỏ ます, thêm たい, thành tính từ đuôi い.
+  - Vì thế mà cách biển đổi phủ định hay quá khứ đều giống với tính từ đuôi い.
+
+### Ex:
+- バイクをかいたいです。 = Muốn mua xe đạp.
+
 ---
 
 ## X. Cấu trúc: Làm gì đó ở đâu đó:
