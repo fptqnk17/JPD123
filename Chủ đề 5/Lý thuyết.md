@@ -153,6 +153,19 @@
 ---
 
 ## VIII. Cấu trúc: Muốn
+- Cấu trúc:
+  - （わたし　は） + N + が + ほしい + です。
+
+- Cách dùng:
+  - ほしい là tính từ đuôi い.
+  - Dùng để nói về ước muốn của người nói.
+
+### Ex:
+- あたらしカメラがほしいです。 = Muốn có máy ảnh mới.
+
+### Cách đặt câu hỏi về ước muốn của ai đó:
+- Cấu trúc:
+  - なに + が + ほしい + ですか。= Muốn cái gì?
 
 ---
 
