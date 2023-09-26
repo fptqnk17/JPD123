@@ -55,6 +55,32 @@
 ---
 
 ## III. Trợ từ が:
+- Cấu trúc:
+  - Đối với động từ:
+    <table>
+      <tr>
+      　　<td rowspan="3">N</td>
+      　　<td rowspan="3">+</td>
+      　　<td rowspan="3">が</td>
+      　　<td rowspan="3">+</td>
+      　　<td>あります</td>
+      </tr>
+      <tr>
+      　　<td>います</td>
+      </tr>
+      <tr>
+      　　<td>わかります (hiểu)</td>
+      </tr>
+    </table>
+  - Đối với tính từ:
+    - Tính từ đuôi い:
+      - N + が + A-い + です。
+    - Tính từ đuôi な:
+      - N + が + A + です。 (bỏ な)
+
+### Ex:
+- リンゴがすきです。 = Tôi thích táo. (すき là tính từ)
+- 日本語がわかります。 = Tôi iểu tiếng Nhật.
 
 ---
 
