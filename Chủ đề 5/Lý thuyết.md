@@ -132,6 +132,23 @@
 ---
 
 ## VII. Phân biệt どこ với どこか; なに với なにか:
+- Nghĩa:
+  - どこか: chỗ nào đó (không xác định rõ)
+  - なにか: cái nào đó (không xác định rõ)
+
+- Cách dùng:
+  - どこか được dùng như danh từ chỉ địa điểm.
+  - なにか được dùng như danh từ chỉ đồ vật, sự việc.
+  - Cả 2 khi đứng trước động từ, đi với các trợ từ へ (e), が, を. Thì các trợ từ này có thể được lược bỏ, các trợ từ khác vẫn giữ nguyên. (Trở thành câu hỏi yes/no)
+
+### Ex:
+- Ex 1:
+  - 夏休みはどうか（へ）いきますか。 = Nghỉ hè có đi đâu không vậy?
+  - はい、いきです。 = Có.
+  - いいえ、いきません。 = Không.
+- Ex 2:
+  - 夏休みはどうへいきますか。 = Nghỉ hè đi đâu vậy?
+  - Nha Trangいきます。 = Đi Nha Trang.
 
 ---
 
