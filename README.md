@@ -7,6 +7,7 @@
 ## Table of contents
 
 - Chủ đề 4: [Click here!!!](https://github.com/fptqnk17/JPD123/blob/main/Ch%E1%BB%A7%20%C4%91%E1%BB%81%204/L%C3%BD%20thuy%E1%BA%BFt.md)
+- Chủ đề 5: [Click here!!!](https://github.com/fptqnk17/JPD123/blob/main/Ch%E1%BB%A7%20%C4%91%E1%BB%81%205/L%C3%BD%20thuy%E1%BA%BFt.md)
 
 ## Contributors:
 
