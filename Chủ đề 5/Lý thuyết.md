@@ -199,3 +199,33 @@
 ---
 
 ## X. Cấu trúc: Làm gì đó ở đâu đó:
+- Cấu trúc:
+  <table>
+    <tr>
+      <td rowspan="3">N (địa điểm)</td>
+      <td rowspan="3">+</td>
+      <td rowspan="3">へ</td>
+      <td rowspan="3">+</td>
+      <td rowspan="3">V (bỏ ます)<p>Cái này là danh động từ<p></td>
+      <td rowspan="3">+</td>
+      <td rowspan="3">に</td>
+      <td>いきます</td>
+    </tr>
+    <tr>
+      <td>きます</td>
+    </tr>
+    <tr>
+      <td>かえります</td>
+    </tr>
+  </table>
+
+- Nghĩa:
+  - Đi / Đến / Về N để làm V.
+
+- Cách dùng:
+  - Đây là mẫu câu sử dụng để nói về mục đích, đi đến về đâu để thực hiện hành động nào đó.
+  - Động từ chỉ mục đích ở thể ます (bỏ ます) khi làm hành động.
+  - Danh từ chỉ mục đính là những danh động từ.
+
+### Ex:
+- Ho Chi Minhへコーヒーをのみにいきます。 = Đến Hồ Chí Minh uống cafe.
