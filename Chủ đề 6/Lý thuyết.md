@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Cấu trúc: Cùng làm ... nhé!
+## II. Cấu trúc: Cùng làm ... nhé!
 - Cấu trúc:
   - V-しょう
   - Nhớ thêm trợ từ kèm theo động từ.
@@ -32,7 +32,7 @@
 
 ---
 
-## 3. Cấu trúc dùng もう và まだ:
+## III. Cấu trúc dùng もう và まだ:
 - Cách dùng:
   - まだ (vẫn chưa) dùng để chỉ một hành động trong trạng thái chưa xảy ra, chưa hoàn thành ở thời điểm nói.
 
@@ -45,5 +45,14 @@
 ### Ex:
 - もう<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べませんか。 = Ăn cơm trưa chưa?
 - いいえ、まだです。 = Chưa.
+
+---
+
+## IV. Cấu trúc: Ở N1 được tổ chức/diễn ra N2:
+- Cấu trúc:
+  - N1 (địa điểm) + で + N2 (sự kiện) + が + あります。
+
+### Ex:
+- ハノイでベトナムと<ruby>日本<rt>にほん</rt></ruby>のサッカー<ruby>試合<rt>しあい</rt></ruby>があります。 = Ở Hà Nội có trận bóng giữa Việt Nam và Nhật Bản.
 
 ---
