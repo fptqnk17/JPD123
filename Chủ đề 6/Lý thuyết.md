@@ -28,7 +28,7 @@
   - Khác với cấu trúc trên.
 
 ### Ex:
-- <ruby>明日<rt>あした</rt></ruby>７じに<ruby>大学<rt>だいがく</rt></ruby>であいましょう。 = Ngày mai gặp nhau ở trường lúc 7h nhé!
+- <ruby>明日<rt>あした</rt></ruby>７じに<ruby>大学<rt>だいがく</rt></ruby>であいましょう。 = Ngày mai gặp nhau ở trường đại học lúc 7h nhé!
 
 ---
 
@@ -67,4 +67,4 @@
   - N1 + は + N2 + より + A (tính từ) + です。
 
 ### Ex:
-- <ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>より<ruby>早<rt>はや</rt></ruby>いです。 = Máy bay nhan hơn ô tô.
+- <ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>より<ruby>早<rt>はや</rt></ruby>いです。 = Máy bay nhanh hơn ô tô.

@@ -22,20 +22,20 @@
   - N + は + A-な + です。 (bỏ な)
 
 - __Ex:__
-  - Danhさんはやさしいです。 = Danh hiền.
-  - ふじさんはたかいです。 = Núi Phú Sĩ cao.
+  - Danhさんは<ruby>優<rt>やさ</rt></ruby>しいです。 = Danh hiền.
+  - <ruby>富士山<rt>ふじさん</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いです。 = Núi Phú Sĩ cao.
 
 ### 2. Câu phủ định:
 - Đối với đuôi な:
   - Như danh từ, đổi __です__ thành __ではありません__ hoặc __じゃありません__.
   - __Ex:__
-    - Quy Nhơnはゆうめいではありません。 = Quy Nhơn không nổi tiếng.
+    - Quy Nhơnは<ruby>有名<rt>ゆうめい</rt></ruby>ではありません。 = Quy Nhơn không nổi tiếng.
 
 - Đối với đuôi い:
   - Đổi __いです__　-->　__くないです__.
   - __Ex:__
-    - FPTだいがくはよくないです。 = Đại học FPT không tốt.
-    - このえいがはおもしろくないです。 = Bộ phim này không hấp dẫn.
+    - FPT<ruby>大学<rt>だいがく</rt></ruby>はよくないです。 = Đại học FPT không tốt.
+    - この<ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>くないです。 = Bộ phim này không hấp dẫn.
   
 #### Chú ý:
 Trường hợp đặc biệt cho từ __いい__:
@@ -56,7 +56,7 @@ Trường hợp đặc biệt cho từ __いい__:
 - __Ex:__
   - わたしはハンサムです。 = Tôi đẹp trai.
   - わたしはハンサムなひとです。 = Tôi là người đẹp trai.
-  - きょうはあついひです。 = Hôm nay là ngày nóng.
+  - <ruby>今日<rt>きょう</rt></ruby>はあつい<ruby>日<rt>ひ</rt></ruby>です。 = Hôm nay là ngày nóng.
 
 ---
 
