@@ -56,3 +56,15 @@
 - ハノイでベトナムと<ruby>日本<rt>にほん</rt></ruby>のサッカー<ruby>試合<rt>しあい</rt></ruby>があります。 = Ở Hà Nội có trận bóng giữa Việt Nam và Nhật Bản.
 
 ---
+
+## V. Cấu trúc so sánh hơn:
+- Cách dùng:
+  - N1 ... hơn N2.
+  - N1 được so sánh với N2.
+  - Hạn chế dùng với người.
+
+- Cấu trúc:
+  - N1 + は + N2 + より + A (tính từ) + です。
+
+### Ex:
+- <ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>より<ruby>早<rt>はや</rt></ruby>いです。 = Máy bay nhan hơn ô tô.
