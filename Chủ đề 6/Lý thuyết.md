@@ -2,7 +2,7 @@
 
 ## I. Cấu trúc rủ rê:
 - Cấu trúc:
-  - いつしょう + に + V-ません + か。
+  - いっしょう + に + V-ません + か。
   - Nhớ thêm trợ từ kèm theo động từ.
   - Trả lời:
     - Đồng ý: ええいいです。
@@ -14,7 +14,7 @@
   - Trả lời theo mẫu.
 
 ### Ex:
-- いつしょうにコーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。 = Uống cafe không?
+- いっしょうにコーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。 = Uống cafe không?
 
 ---
 
