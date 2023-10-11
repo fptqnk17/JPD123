@@ -68,3 +68,22 @@
 
 ### Ex:
 - <ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>より<ruby>早<rt>はや</rt></ruby>いです。 = Máy bay nhanh hơn ô tô.
+
+---
+
+## VI. Cấu trúc hỏi cái nào hơn:
+- Cấu trúc:
+  - Câu hỏi: N1 + と + N2 + と + どちら + が + A(Tính từ) + ですか。
+  - Trả lời:
+    - 1 trong 2: N1(N2) + のほうが + A(Tính từ) + です。
+    - Cả 2: どちらも + A(Tính từ) + です。
+
+- Cách dùng:
+  - Cách hỏi và nói sự hơn kém nhau giữa 2 vật.
+  - Hạn chế dùng với người.
+
+### Ex:
+- <ruby>春<rt>はる</rt></ruby>と<ruby>秋<rt>あき</rt></ruby>とどちらが<ruby>好<rt>す</rt></ruby>きですか。 = Mùa xuân và mùa thu, thích mùa nào hơn?
+- どちらも好きです。 = Thích cả hai.
+
+---
