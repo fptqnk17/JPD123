@@ -87,3 +87,21 @@
 - どちらも好きです。 = Thích cả hai.
 
 ---
+
+## VII. So sánh nhất:
+- Cấu trúc:
+  - N1 + で + N2 + が + <ruby>一番<rt>いちばん</rt></ruby> + A(Tính từ) + です。
+- Cách dùng:
+  - Trong phạm vi N1, N2 là nhất.
+
+#### Ex:
+- スポーツでテニスが<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きです。 = Trong thể thao, thích nhất là quần vợt.
+
+### Cách đặt câu hỏi:
+- N1 + で + どこ/いつ/なに/だれ + が + <ruby>一番<rt>いちばん</rt></ruby> + A(Tính từ) + ですか。
+
+#### Ex:
+- スポーツで<ruby>何<rt>なに</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きですか。 = Trong thể thao, thích nhất là môn nào?
+- スポーツでテニスが<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きです。= Trong thể thao, thích nhất là quần vợt.
+
+---
