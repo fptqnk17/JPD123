@@ -105,3 +105,13 @@
 - スポーツでテニスが<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きです。= Trong thể thao, thích nhất là quần vợt.
 
 ---
+
+## VIII. Số từ (lượng từ):
+- Cấu trúc:
+  - N + が + (～まい/～つ) + V-ます。
+
+- Cách dùng:
+  - Lượng từ chỉ số lượng, đặt trước động từ trong câu.
+
+### Ex:
+- <ruby>蜜柑<rt>みかん</rt></ruby>を２つ<ruby>買<rt>か</rt></ruby>います。 = Mua 2 cái cam.
