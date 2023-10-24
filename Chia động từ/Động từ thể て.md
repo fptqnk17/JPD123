@@ -6,9 +6,9 @@
 ### 1. Nhóm 1:
 - Bao gồm các động từ đứng trước đuôi ます là các chữ cái thuộc hàng い.
 - __Ex:__
-  - かきます
-  - はなします
-  - のみます
+  - <ruby>書<rt>か</rt></ruby>きます
+  - <ruby>話<rt>はな</rt></ruby>します
+  - <ruby>飲<rt>の</rt></ruby>みます
 
 ### 2. Nhóm 2:
 - Bao gồm các động từ đứng trước đuôi ます là các chữ cái thuộc hàng え.
